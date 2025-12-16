@@ -1,5 +1,4 @@
 ## Power BI Dashboards (PDF Export)
-
 These PDFs contain static exports of the Power BI dashboards used in this project:
 
 - **Executive Summary** – Executive level overview of a loan portfolio highlighting profitability,
@@ -10,4 +9,6 @@ These PDFs contain static exports of the Power BI dashboards used in this projec
 - **Model Insights** – Model interpretability and performance dashboard showcasing calibrated PDs, expected loss at loan level,
                        model evaluation metrics (AUC, KS, Brier Score, ECE), feature importance and SHAP based explanations.
 
-Note: Interactive Power BI reports can be shared upon request.
+
+## 📊 Interactive Power BI Dashboard
+🔗 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNDY4N2Y3MWEtY2UyMi00MTE0LWIwYWYtODdiZGNiYjg5YmVmIiwidCI6ImI1ZDNjZjBhLWI0OGItNDdmNC1hY2Q2LTIyNzMyZTUwNzMwZCJ9 
